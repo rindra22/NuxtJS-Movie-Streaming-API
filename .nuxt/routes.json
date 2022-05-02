@@ -3,14 +3,12 @@
     "name": "movies-movieid",
     "path": "/movies/:movieid?",
     "component": "/opt/lampp/htdocs/NuxtJS-Movie-Streaming-API/pages/movies/_movieid.vue",
-    "chunkName": "pages/movies/_movieid",
-    "_name": "_375fe3fa"
+    "chunkName": "pages/movies/_movieid"
   },
   {
     "name": "index",
     "path": "/",
     "component": "/opt/lampp/htdocs/NuxtJS-Movie-Streaming-API/pages/index.vue",
-    "chunkName": "pages/index",
-    "_name": "_f4030d86"
+    "chunkName": "pages/index"
   }
 ]

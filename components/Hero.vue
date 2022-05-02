@@ -1,11 +1,11 @@
 <template>
   <div class="hero">
-    <img src="../assets/imgs/movieHero.jpg" alt="" />
+    <img src="../assets/imgs/header.png" alt="" />
     <div class="text-container">
       <div class="text">
-        <span class="mini-heading">Now Stremaing</span>
+        <span class="mini-heading">Now Streaming</span>
         <h1><span>Now</span> Streaming</h1>
-        <a href="#movie-grid" class="button">View Movies</a>
+        <a href="#movie-grid" class="button">voir les films</a>
       </div>
     </div>
   </div>
